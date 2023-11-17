@@ -1,5 +1,4 @@
-# global-solution-GabrielBdSilva
-global-solution-GabrielBdSilva created by GitHub Classroom
+# global-solution-BioConnection
 
 # Equipe
 Arthur Koga 99503
